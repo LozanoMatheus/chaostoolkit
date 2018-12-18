@@ -1,5 +1,9 @@
 # Chaos Toolkit
 
+**Working in progress. Please check the [demo](/../../tree/demo) branch.**
+
+---
+
 This project was created to test, create some demos and try to help [Chaostoolkit community](https://github.com/chaostoolkit/chaostoolkit).
 
 _Note: The Docker images will automatically builded using auto build/webhook._
